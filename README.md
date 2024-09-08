@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains a data analysis for an investigaiton on the various densities of select matters. The core of the project is implemented in a Jupyter notebook, `error_analysis.ipynb.
+This repository contains a data analysis for an investigaiton on the densities of select matters. The core of the project is implemented in a Jupyter notebook, `error_analysis.ipynb.
 
 ## Contents
 
-- **`error_analysis.ipynb`**: The primary notebook where the analysis is conducted. It likely includes dataprocessing and visualizations related to the project.
+- **`error_analysis.ipynb`**: The primary notebook where the analysis is conducted, includeing dataprocessing and visualizations related to the project.
 
 ## Dependencies
 
